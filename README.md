@@ -1,5 +1,5 @@
 ### Hi there 👋
-<tagname style="background-color:cornflowerblue;">
+<body style="background-color:powderblue;">
 <!--
 **rgagnon2/rgagnon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
